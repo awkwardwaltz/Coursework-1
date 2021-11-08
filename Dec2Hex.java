@@ -1,4 +1,4 @@
-package com.devops.com.devops.maven.eclipse;
+
 import java.util.Scanner;
 
 class Dec2Hex
