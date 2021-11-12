@@ -11,7 +11,7 @@ class Dec2Hex
     {
         if (args.length == 0){
         	noArgument = true;
-            System.out.println("You cannot run this code without a command line argument");
+            System.out.println("You cannot run this code without a command line argument.");
         } else {
             try{
             noArgument = false;
